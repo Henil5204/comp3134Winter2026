@@ -1,0 +1,339 @@
+1. ================================================================
+
+Domain Information
+Domain:
+amazon.com
+Registered On:
+1994-11-01
+Expires On:
+2026-10-31
+Updated On:
+2025-07-31
+Status:
+client delete prohibited
+client transfer prohibited
+client update prohibited
+server delete prohibited
+server transfer prohibited
+server update prohibited
+Name Servers:
+ns1.amzndns.co.uk
+ns1.amzndns.com
+ns1.amzndns.net
+ns1.amzndns.org
+ns2.amzndns.co.uk
+ns2.amzndns.com
+ns2.amzndns.net
+ns2.amzndns.org
+
+Registrar Information
+Registrar:
+MarkMonitor Inc.
+IANA ID:
+292
+Email:
+https://www.markmonitor.com/contact-us/
+Abuse Email:
+abusecomplaints@markmonitor.com
+Abuse Phone:
++1.2086851750
+
+Registrant Contact
+Name:
+Hostmaster, Amazon Legal Dept.
+Organization:
+Amazon Technologies, Inc.
+Street:
+P.O. Box 8102
+City:
+Reno
+State:
+NV
+Postal Code:
+89507
+Country:
+US
+Phone:
++1.2062664064
+Fax:
++1.2062667010
+Email:
+https://domains.markmonitor.com/whois/contact/amazon.com
+
+Technical Contact
+Name:
+Hostmaster, Amazon Legal Dept.
+Phone:
++1.2062664064
+Email:
+https://domains.markmonitor.com/whois/contact/amazon.com
+
+2. ================================================================
+
+Domain Information
+Domain:
+loblaws.ca
+Registered On:
+2001-01-23
+Expires On:
+2027-01-12
+Updated On:
+2025-12-30
+Status:
+client transfer prohibited
+Name Servers:
+a1-223.akam.net
+a10-66.akam.net
+a11-67.akam.net
+a16-64.akam.net
+a4-65.akam.net
+a9-66.akam.net
+
+Registrar Information
+Registrar:
+Webnames.ca Inc.
+IANA ID:
+456
+URL:
+webnames.ca
+Email:
+support@webnames.ca
+Abuse Email:
+abuse@webnames.ca
+Abuse Phone:
++1.8662217878
+
+Registrant Contact
+Name:
+Service Desk
+Organization:
+Loblaws Inc.
+Street:
+22 St. Clair Ave East, Suite 701
+City:
+Toronto
+State:
+ON
+Postal Code:
+M4T 2S5
+Country:
+CA
+Phone:
++1.4169221383
+Email:
+https://www.webnames.ca/services/domains/privacy_contact_owner.aspx
+
+Technical Contact
+Name:
+Service Desk
+Phone:
++1.4169221383
+Email:
+https://www.webnames.ca/services/domains/privacy_contact_owner.aspx
+
+3. ================================================================
+
+Domain Information
+Domain:
+google.com
+Registered On:
+1997-09-15
+Expires On:
+2028-09-14
+Updated On:
+2019-09-09
+Status:
+client delete prohibited
+client transfer prohibited
+client update prohibited
+server delete prohibited
+server transfer prohibited
+server update prohibited
+Name Servers:
+ns1.google.com
+ns2.google.com
+ns3.google.com
+ns4.google.com
+
+Registrar Information
+Registrar:
+MarkMonitor Inc.
+IANA ID:
+292
+Email:
+https://www.markmonitor.com/contact-us/
+Abuse Email:
+abusecomplaints@markmonitor.com
+Abuse Phone:
++1.2086851750
+
+Registrant Contact
+Organization:
+Google LLC
+Country:
+US
+Email:
+https://domains.markmonitor.com/whois/contact/google.com
+
+Technical Contact
+Email:
+https://domains.markmonitor.com/whois/contact/google.com
+
+4. ================================================================
+
+Domain Information
+Domain:
+georgebrown.ca
+Registered On:
+2002-07-04
+Expires On:
+2026-07-04
+Updated On:
+2026-01-15
+Status:
+client transfer prohibited
+Name Servers:
+ns1.d-zone.ca
+ns1.georgebrown.ca
+ns2.d-zone.ca
+ns2.georgebrown.ca
+
+Registrar Information
+Registrar:
+Webnames.ca Inc.
+IANA ID:
+456
+URL:
+webnames.ca
+Email:
+support@webnames.ca
+Abuse Email:
+abuse@webnames.ca
+Abuse Phone:
++1.8662217878
+
+Registrant Contact
+Name:
+Shahin Javanshiri
+Organization:
+George Brown College
+Street:
+P.O. Box 1015 Station B
+City:
+Toronto
+State:
+ON
+Postal Code:
+M5T 2T9
+Country:
+CA
+Phone:
++1.4164155000
+Email:
+https://www.webnames.ca/services/domains/privacy_contact_owner.aspx
+
+Technical Contact
+Name:
+Dorin Grunberg
+Phone:
++1.4164155000
+Email:
+https://www.webnames.ca/services/domains/privacy_contact_owner.aspx
+
+5. ================================================================
+
+Domain Information
+Domain:
+td.ca
+Registered On:
+2000-10-02
+Expires On:
+2026-07-23
+Updated On:
+2024-07-09
+Status:
+client transfer prohibited
+Name Servers:
+dns1.cscdns.net
+dns2.cscdns.net
+
+Registrar Information
+Registrar:
+CSC Corporate Domains (Canada) Company
+IANA ID:
+not applicable
+URL:
+www.cscglobal.com
+Abuse Email:
+domainabuse@cscglobal.com
+Abuse Phone:
++1.3026365400
+
+Registrant Contact
+Name:
+TD Bank Financial Group
+Street:
+79 Wellington Street West
+14th Floor
+City:
+Toronto
+State:
+ON
+Postal Code:
+M5K1A2
+Country:
+CA
+Phone:
++1.4169828222
+Fax:
++1.4169446605
+Email:
+email@tdbank.ca
+
+Administrative Contact
+Name:
+Roman Melnyk
+Organization:
+TD Bank Financial Group
+Street:
+79 Wellington Street West
+14th Floor
+City:
+Toronto
+State:
+ON
+Postal Code:
+M5K1A2
+Country:
+CA
+Phone:
++1.4169828222
+Fax:
++1.4169446605
+Email:
+email@tdbank.ca
+
+Technical Contact
+Name:
+Roman Melnyk
+Organization:
+TD Bank Financial Group
+Street:
+79 Wellington Street West
+14th Floor
+City:
+Toronto
+State:
+ON
+Postal Code:
+M5K1A2
+Country:
+CA
+Phone:
++1.4169828222
+Fax:
++1.4169446605
+Email:
+email@tdbank.ca
+
+===================================================================

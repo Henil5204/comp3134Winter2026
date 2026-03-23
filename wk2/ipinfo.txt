@@ -1,0 +1,36 @@
+1. ================================================================
+
+Domain: youtube.com
+IP Address: 142.250.75.238
+IP Location: USA
+Hosting Address: 1600 Amphitheatre Parkway, Mountain View, CA, 94043, US
+
+2. ================================================================
+
+Domain: github.com
+IP Address: 140.82.121.3
+IP Location: USA
+Hosting Address: 88 Colin P Kelly Jr Street, San Francisco, CA, 94107, US
+
+3. ================================================================
+
+Domain: gitlab.com
+IP Address: 172.65.251.78
+IP Location: USA
+Hosting Address: 665 Third Street #207, San Francisco, CA, 94107, US
+
+4. ================================================================
+
+Domain: toronto.ca
+IP Address: 206.130.170.36
+IP Location: Canada
+Hosting Address: 703 Don Mills Road, Toronto, ON, M3C-3N3, CA
+
+5. ================================================================
+
+Domain: chatgpt.com
+IP Address: 104.18.32.47
+IP Location: USA
+Hosting Address: 665 Third Street #207, San Francisco, CA, 94107, US
+
+===================================================================
